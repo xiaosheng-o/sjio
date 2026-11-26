@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+*.pdf
+*.docx
+*.mp4
+*.zip
+.env
+.env.*
