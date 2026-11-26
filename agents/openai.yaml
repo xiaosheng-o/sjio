@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研通文献求助"
+  short_description: "跟进科研通文献求助，下载核验正文和补充材料后分别自动采纳"
+  default_prompt: "用 $ablesci-assist 检查本项目在科研通待确认的求助，下载并核对文件后采纳。"
